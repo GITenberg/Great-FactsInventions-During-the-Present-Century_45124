@@ -1,0 +1,38 @@
+_repo: Great-FactsInventions-During-the-Present-Century_45124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bakewell, Frederick C. (Frederick Collier)
+    aliases:
+    - Bakewell, F. C. (Frederick Collier)
+    - Bakewell, Frederick Collier
+    birthdate: 1800
+    deathdate: 1869
+    gutenberg_agent_id: '43112'
+    url: http://www.gutenberg.org/2009/agents/43112
+description: ''
+gutenberg_issued: '2014-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45124'
+  lccn: '30001234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+tableOfContents: The progress of invention -- Steam navigation -- Steam carriages
+  and railways -- The air engine -- Photography -- Dissolving views -- The kaleidoscope
+  -- The magic disc -- The diorama -- The stereoscope -- The electric telegraph --
+  Electro-magnetic clocks -- Electro-metallurgy -- Gas lighting -- The electric light
+  -- Instantaneous lights -- Paper making machinery -- Printing machines -- Lithography
+  -- Aerated waters -- Revolvers and Minié rifles -- Centrifugal pumps -- Tubular
+  bridges -- Self-acting engines, including the Nasmyth steam hammer.
+title: "Great Facts\r\nA Popular History and Description of the Most Remarkable Inventions\
+  \ During the Present Century"
+url: http://www.gutenberg.org/ebooks/45124
