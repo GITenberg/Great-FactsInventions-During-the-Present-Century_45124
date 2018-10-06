@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'T'
 - !lcsh 'Inventions'
+- GITenberg
 tableOfContents: The progress of invention -- Steam navigation -- Steam carriages
   and railways -- The air engine -- Photography -- Dissolving views -- The kaleidoscope
   -- The magic disc -- The diorama -- The stereoscope -- The electric telegraph --
